@@ -1,9 +1,6 @@
 
 # Awesome-Red-Team-Operation
 
-
-# PenTest and Red Teams Tools
-
 ## Powershell Scripts
 
 - https://github.com/S3cur3Th1sSh1t/WinPwn
